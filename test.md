@@ -24,3 +24,5 @@ $$
 $$
 
 Cool! Even quite complicated mathematics is supported. 
+
+See link to [test.el](test.el). And local links work fine too.
